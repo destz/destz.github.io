@@ -42,3 +42,5 @@ Though if you are just starting, use your condensed resin for talent material.
 
 # Even After All This...Now What?
 ![xiao image](xiao%20confused%20.png)
+
+**Have fun! Do not compare your progress to any one elses and just keep on learning either by yourself or resources**
