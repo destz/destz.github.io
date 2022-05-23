@@ -12,9 +12,9 @@ My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin
 
 I will be guessing that you know some simple knowledge about the currency names in the game since you're here. Do not fret though, I will be explaining them with some terminology connected to the game.
 
-### What To Do and What Not To Do With Mora
+## What To Do and What Not To Do With Mora
 
-![mora image](https://github.com/destz/destz.github.io/blob/main/What-is-the-value-of-Mora-Genshin-Impact.jpg)
+![mora image](What-is-the-value-of-Mora-Genshin-Impact.jpg)
 
 While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
 - Save up your Mora to upgrade **talent levels**
