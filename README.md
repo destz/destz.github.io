@@ -20,7 +20,8 @@ While it might be tempting to spend on items in the beginning of the game...DO N
 - Save up your Mora to upgrade **talent levels**
  of your character; the higher the level the more outrageously costly.
 - Mora can be used for ingredients which also allows you to cook meals that can heal your characters during several battles.
-- 
+- Raising the level of your weapons, increases the damage you do on opponents.
+- Raising artifacts **POTENTIALLY** increases overall damage on a wider scale.
 
 1. Numbered
 2. List
