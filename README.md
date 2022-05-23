@@ -1,6 +1,6 @@
-## Genshin for Noobs 
+## Genshin for Noobs 101
 
-You can use the [editor on GitHub](https://github.com/destz/destz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hey Travelar, so you some how have gotten addicted to Genshim Impact with its gReaT wishing system and AmaZiNg artifact rolls...but are left with absolutely zero patience and on the brink of uninstalling the game. Fear no more
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
