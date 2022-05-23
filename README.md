@@ -15,6 +15,7 @@ I will be guessing that you know some simple knowledge about the currency names 
 ### What To Do and What Not To Do With Mora
 
 ![mora image](https://github.com/destz/destz.github.io/blob/main/What-is-the-value-of-Mora-Genshin-Impact.jpg)
+
 While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
 - Save up your Mora to upgrade **talent levels**
  of your character; the higher the level the more outrageously costly.
@@ -24,7 +25,9 @@ While it might be tempting to spend on items in the beginning of the game...DO N
 
 ## The Importance of Resin
 
-First off, what is Resin right? So basically resin is used to claim certain rewards 
+First off, what is Resin right? So basically, resin is used to claim certain rewards and can be used for Abyssal Domains, Ley Line Blossoms, bosses, adventure rank and more.
+     Can these items be ranked from most important to least important? Short and simple answer: yes...however 
+
 
 1. Numbered
 2. List
