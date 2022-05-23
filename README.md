@@ -8,6 +8,13 @@ My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin
 
 ![genshin impact image one ](https://user-images.githubusercontent.com/106105964/169901950-dd09d0b2-b68e-4296-ae83-ae962f1f1ef1.jpeg)
 
+#### Table of Contents 
+[Thee Basics of Currency](https://destz.github.io/#:~:text=Genshin%20for%20Noobs%20101)
+
+[What To Do and What Not To Do With Mora](https://destz.github.io/#:~:text=What%20To%20Do%20and%20What%20Not%20To%20Do%20With%20Mora)
+
+[The Importance of Resin](https://destz.github.io/#:~:text=character%20or%20item.-,The%20Importance%20of%20Resin,-First%20off%2C%20what)
+
 ### Thee Basics About Currency
 
 I will be guessing that you know some simple knowledge about the currency names in the game since you're here. Do not fret though, I will be explaining them with some terminology connected to the game.
