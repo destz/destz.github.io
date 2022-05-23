@@ -14,7 +14,7 @@ I will be guessing that you know some simple knowledge about the currency names 
 
 ### What To Do and What Not To Do With Mora
 
-![mora image](https://github.com/destz/destz.github.io/blob/main/What-is-the-value-of-Mora-Genshin-Impact.jpeg))
+![mora image](https://github.com/destz/destz.github.io/blob/main/What-is-the-value-of-Mora-Genshin-Impact.jpeg)
 
 While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
 - Save up your Mora to upgrade **talent levels**
@@ -22,6 +22,10 @@ While it might be tempting to spend on items in the beginning of the game...DO N
 - Mora can be used for ingredients which also allows you to cook meals that can heal your characters during several battles.
 - Raising the level of your weapons, increases the damage you do on opponents.
 - Raising artifacts **POTENTIALLY** increases overall damage on a wider scale.
+
+## The Importance of Resin
+
+First off, what is Resin right? So basically resin is used to claim certain rewards 
 
 1. Numbered
 2. List
