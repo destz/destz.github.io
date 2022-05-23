@@ -41,3 +41,4 @@ Though if you are just starting, use your condensed resin for talent material.
 
 
 # Even After All This...Now What?
+![xiao image]()
