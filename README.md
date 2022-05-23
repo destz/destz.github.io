@@ -25,7 +25,7 @@ While it might be tempting to spend on items in the beginning of the game...DO N
 
 ## The Importance of Resin
 
-![original resin image]![resin image](fragile%20resin.jpeg) ![condensed resin](condensed%20resin%20.jpeg)
+![resin image](fragile%20resin.jpeg) ![condensed resin](condensed%20resin%20.jpeg)
 
 First off, what is Resin right? So basically, resin is used to claim certain rewards and can be used for Abyssal Domains, Ley Line Blossoms, bosses, adventure rank and more.
      Can these items be ranked from most important to least important? Short and simple answer: yes...however 
