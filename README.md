@@ -36,7 +36,7 @@ First off, what is Resin right? So basically, resin is used to claim certain rew
    -It increases the amount dropped and the rarity of the item. You'll get more with condensed resin so it is a win-win. 
 Depending on your focus, such as talent materials(books), artifacts, or mora, it is up to you on what to spend your condensed resin on.
 
-#Tip
+### Tip
 Though if you are just starting, use your condensed resin for talent material.
 
 [Link](url) and ![Image](src)
