@@ -4,7 +4,7 @@ Hey Traveler, so you some how have gotten addicted to Genshim Impact with its gR
 
 My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin since September of 2020 and have been there, quite too literally. I know what it is like to feel frustrated with making no progress and having low skill and low mora (Genshin currency). So, I'll do my best to explain some simple tips and tricks. 
 
-*Note: This game can be played however the player chooses to play it, so theoretically there is not right or wrong way to play Genshin Impact.*
+*Note: This game can be played however the player chooses to play it, so theoretically there is no right or wrong way to play Genshin Impact.*
 
 ![genshin impact image one ](https://user-images.githubusercontent.com/106105964/169901950-dd09d0b2-b68e-4296-ae83-ae962f1f1ef1.jpeg)
 
@@ -22,6 +22,8 @@ While it might be tempting to spend on items in the beginning of the game...DO N
 - Mora can be used for ingredients which also allows you to cook meals that can heal your characters during several battles.
 - Raising the level of your weapons, increases the damage you do on opponents.
 - Raising artifacts **POTENTIALLY** increases overall damage on a wider scale.
+
+If you organize your spendings then you are least likley to ever have to worry about whether you have enough more to level up either your character or item. 
 
 ## The Importance of Resin
 
