@@ -14,7 +14,7 @@ I will be guessing that you know some simple knowledge about the currency names 
 
 ### What To Do and What Not To Do With Mora
 
-![mora image](What-is-the-value-of-Mora-Genshin-Impact.jpeg)
+![mora image](![What-is-the-value-of-Mora-Genshin-Impact](https://user-images.githubusercontent.com/106105964/169907455-1e180f69-bb51-48ce-ab6a-42fce4d0daf0.jpg))
 
 While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
 - Save up your Mora to upgrade **talent levels**
