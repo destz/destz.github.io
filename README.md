@@ -2,10 +2,10 @@
 
 Hey Traveler, so you some how have gotten addicted to Genshim Impact with its gReaT wishing system and AmaZiNg artifact rolls...but are left with absolutely zero patience and on the brink of uninstalling the game? Fear no more, in this page you'll learn how to be resourceful and increase your accounts worth!
 
-My name is Dest, and I am a junior at John Glenn Highschool. I've played genshin since September of 2020 and have been there, quite to literally. I know what it is like to feel frusterated with making no progress and having low skill and low mora (Genshin currency). So, I'll do my best to explain some simple tips and tricks. 
+My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin since September of 2020 and have been there, quite to literally. I know what it is like to feel frustrated with making no progress and having low skill and low mora (Genshin currency). So, I'll do my best to explain some simple tips and tricks. 
 
 ## Test image
-![alskfjsl](Genshin-Impact-Artifact-Guide.jpeg)
+![alskfjsl]()
 
 ### Markdown
 
