@@ -30,13 +30,14 @@ If you organize your spendings then you are least likley to ever have to worry a
 ![resin image](fragile%20resin.jpeg) ![condensed resin](condensed%20resin%20.jpeg)
 
 First off, what is Resin right? So basically, resin is used to claim certain rewards and can be used for Abyssal Domains, Ley Line Blossoms, bosses, adventure rank and more.
-     Can these items be ranked from most important to least important? Short and simple answer: yes...however 
+     Can these items be ranked from most important to least important? Short and simple answer: yes...however...
+     
+1.  **CONDENSED** Resin can increase the amount of items dropped in domains.
+   -It increases the amount dropped and the rarity of the item. You'll get more with condensed resin so it is a win-win. 
+Depending on your focus, such as talent materials(books), artifacts, or mora, it is up to you on what to spend your condensed resin on.
 
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+#Tip
+Though if you are just starting, use your condensed resin for talent material.
 
 [Link](url) and ![Image](src)
 ```
