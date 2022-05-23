@@ -6,16 +6,19 @@ My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin
 
 *Note: This game can be played however the player chooses to play it, so theoretically there is not right or wrong way to play Genshin Impact.*
 
-![alskfjsl](https://github.com/destz/destz.github.io/blob/main/genshin%20impact%20image%20one%20.jpeg)
+![genshin impact image one ](https://user-images.githubusercontent.com/106105964/169901950-dd09d0b2-b68e-4296-ae83-ae962f1f1ef1.jpeg)
 
 ### Thee Basics About Currency
 
 I will be guessing that you know some simple knowledge about the currency names in the game since you're here. Do not fret though, I will be explaining them with some terminology connected to the game.
 
-### What To Do and What Not To Do With Mora 
+### What To Do and What Not To Do With Mora
+
+![mora imgage](https://user-images.githubusercontent.com/106105964/169901950-dd09d0b2-b68e-4296-ae83-ae962f1f1ef1.jpeg)
 
 While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
-- **Save up your Mora to upgrade talent levels of your character; the higher the level the more outrageously costly.
+- Save up your Mora to upgrade **talent levels**
+ of your character; the higher the level the more outrageously costly.
 - Mora can be used for ingredients which also allows you to cook meals that can heal your characters during several battles.
 - 
 
