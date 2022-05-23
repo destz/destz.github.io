@@ -4,21 +4,20 @@ Hey Traveler, so you some how have gotten addicted to Genshim Impact with its gR
 
 My name is Dest, and I am a junior at John Glenn Highschool. I've played Genshin since September of 2020 and have been there, quite too literally. I know what it is like to feel frustrated with making no progress and having low skill and low mora (Genshin currency). So, I'll do my best to explain some simple tips and tricks. 
 
+*Note: This game can be played however the player chooses to play it, so theoretically there is not right or wrong way to play Genshin Impact.*
+
 ![alskfjsl](https://github.com/destz/destz.github.io/blob/main/genshin%20impact%20image%20one%20.jpeg)
 
-### Thee Basics
+### Thee Basics about currency
 
 I will be guessing that you know some simple knowledge about the currency names in the game since you're here. Do not fret though, I will be explaining them with some terminology connected to the game.
 
-```markdown
-Syntax highlighted code block
+### What To Do and What Not To Do With Mora 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+While it might be tempting to spend on items in the beginning of the game...DO NOT..instead
+- **Save up your Mora ** to upgrade talent levels of your character; the higher the level the more outrageously costly.
+- mora can be used for ingredients and ingredients allows you to cook meals that can heal your characters
+- 
 
 1. Numbered
 2. List
